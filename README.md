@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Java and related project
+- 🌱 I’m currently learning Singing, it is funny
+
 <!--
 **daboulek/daboulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

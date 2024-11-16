@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Java and related project
 - 🌱 I’m currently learning Singing, it is funny
+- I am talent and want to learn more about cpp
 
 <!--
 **daboulek/daboulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

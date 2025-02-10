@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Singing, it is funny
 - I want to learn more about cpp
 - Using Copilot to create APPS!
+- Get more fun!!!
 
 <!--
 **daboulek/daboulek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
